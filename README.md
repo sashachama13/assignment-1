@@ -1,2 +1,4 @@
-assignment-1
-============
+infographic
+===========
+
+Typography assignment.
